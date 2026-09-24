@@ -50,3 +50,53 @@ footer {
     text-align: center;
     padding: 24px 16px;
 }
+
+.aviso {
+    background-color: #8ffedb;
+    padding: 16px;
+    border-left: 6px solid #00a881;
+    margin-bottom: 16px;
+}
+
+#nome {
+    border:2px solid #00a881;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+#email {
+    border:2px solid #00a881;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+#telefone {
+    border:2px solid #00a881;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+#data {
+    border:2px solid #00a881;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+#hora {
+    border:2px solid #00a881;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+#especialidade {
+    border:2px solid #00a881;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+#mensagem {
+    border:2px solid #00a881;
+    border-radius: 6px;
+    padding: 8px;
+}
+
