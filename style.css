@@ -100,3 +100,8 @@ footer {
     padding: 8px;
 }
 
+h1, h2, h3 {
+    font-family: Georgia, serif;
+    color: #1a1a1a;
+}
+
